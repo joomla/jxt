@@ -17,7 +17,7 @@ This repository is where we keep track of our goals as a team, what we are worki
 In time, we may create a usability portal or wiki where other Joomla teams can reference things like long-term goals, Joomla personas, and more. TBD
 
 ## Contributing
-We may occasionally post surveys or discussions in the discussions tab above. Your participation in those is invaluable, because we always prefer to make decisions based on real-world scenarios and feedback!
+We may occasionally post surveys or discussions in the [discussions tab](https://github.com/joomla/jxt/discussions) above. Your participation in those is invaluable, because we always prefer to make decisions based on real-world scenarios and feedback!
 
 If you want to report usability issues in the Joomla CMS, please do so in the [main Joomla repository](https://github.com/joomla/joomla-cms). We review issues and pull requests there frequently.
 
