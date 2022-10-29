@@ -22,3 +22,21 @@ We may occasionally post surveys or discussions in the [discussions tab](https:/
 If you want to report usability issues in the Joomla CMS, please do so in the [main Joomla repository](https://github.com/joomla/joomla-cms). We review issues and pull requests there frequently.
 
 If you'd like to join the JXT, please check out [our page on the Joomla Volunteers Portal](https://volunteers.joomla.org/teams/joomla-experience-team). You'll be able to see our open positions, view our latest meeting minutes, and fill out an interest form. 
+
+### Please note before participating in the issues in this repository...
+**Issues and ideas here are raw and not ready for public discussion.** Often, we'll have research projects behind the scenes running to help inform our decisions, which cannot be public because it may include personal information of participants. We're not making recommendations based on our personal opinions; they are based on usability best practices, accessibility standards, and research with different groups of Joomla users.
+
+**When an issue has been defined enough and we are comfortable making a recommendation on how to move forward, we will move the issue to the appropriate codebase repo.** For example, ideas for Joomla CMS will go into joomla/joomla-cms. At that point we're ready for public discussion and feedback.
+
+Please **_do_** comment on issues if:
+
+- You can provide additional context for an issue or feature we're discussing. (For example, if it was proposed in the past but was not approved; it would help to know that.)
+- You have been asked directly by a member of the JXT to evaluate technical feasibility of a solution.
+- You can provide links to additional issues, PRs, or discussions relevant to the problem we're trying to solve.
+- You would like to give hands-on support in designing or developing the eventual solution, either for one issue or as a member of the JXT. (We could always use more members!)
+
+We gently ask that you hold other kinds of comments (questions, complaints) until the issue is ready for discussion in one of the other repos. Alternatively, open a discussion and link to the relevant issue so we can address questions and comments on the side.
+
+This isn't to reduce transparency or collaboration—far from it!—but to protect the time of our small team of volunteers.
+
+Thank you!!
